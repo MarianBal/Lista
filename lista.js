@@ -4,7 +4,7 @@ var lista = [];
 
 var i= 0;
 
-var agregarElemento = prompt('Agregá una actividad en la lista');
+var agregarElemento = prompt('Agregá un elemento a la lista');
 
 if(agregarElemento ==''){
    
